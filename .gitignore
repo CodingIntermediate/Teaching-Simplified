@@ -1,0 +1,30 @@
+# Composer / PHP dependencies
+/vendor/
+
+# Environment/config files
+.env
+.env.*
+api_config.php
+# Local PHP runtime artifacts
+*.log
+cache/
+php_errors.log
+
+# Uploaded/generated content
+/uploads/
+/attachments/
+/coverage/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local temporary files
+*.tmp
+*.bak

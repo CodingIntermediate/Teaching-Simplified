@@ -1,0 +1,23 @@
+================================================================ COURSE SYLLABUS
+INTRODUCTION TO COMPUTER SCIENCE (CS101) ================================================================
+COURSE INFORMATION -----------------Course Code: CS101 Course Title: Introduction to Computer Science Credits: 3 Semester: Fall 2024 Prerequisites: None
+INSTRUCTOR INFORMATION ---------------------Name: Professor John Smith Email: john.smith@university.com Office Hours: Monday & Wednesday 2:00 PM - 4:00 PM
+COURSE DESCRIPTION -----------------This course provides a comprehensive introduction to the fundamental concepts of computer science. Students will learn about algorithms, programming basics, data structures, and computational thinking. No prior programming experience is required.
+LEARNING OBJECTIVES ------------------Upon completion of this course, students will be able to: 1. Understand basic programming concepts and logic 2. Write simple programs using Python 3. Analyze and solve problems algorithmically 4. Understand data representation in computers
+
+5. Explain fundamental computer science principles
+COURSE TOPICS ------------Week 1-2: Introduction to Computing and History Week 3-4: Programming Basics and Python Week 5-6: Variables, Data Types, and Operators Week 7-8: Control Structures (if-else, loops) Week 9-10: Functions and Modules Week 11-12: Lists, Tuples, and Dictionaries Week 13-14: File Handling and Exception Handling Week 15: Introduction to Object-Oriented Programming Week 16: Final Review and Exam
+TEXTBOOKS AND RESOURCES ----------------------Required Textbook: - "Computer Science: An Overview" by Glenn Brookshear - "Python Crash Course" by Eric Matthes
+Online Resources: - Python.org official documentation - W3Schools Python Tutorial - Codecademy Python Course
+ASSESSMENT METHODS -----------------Assignment 1: Programming Basics (10%) Assignment 2: Control Structures (10%) Assignment 3: Functions (10%) Assignment 4: Data Structures (10%)
+
+Midterm Exam (25%) Final Project (15%) Final Exam (20%)
+GRADING SCALE ------------A: 90-100% B: 80-89% C: 70-79% D: 60-69% F: Below 60%
+KEY CONCEPTS COVERED -------------------- Algorithms - Variables and Data Types - Conditional Statements - Loops (for, while) - Functions - Arrays/Lists - File I/O - Exception Handling - Object-Oriented Programming - Recursion - Sorting Algorithms - Search Algorithms
+IMPORTANT DATES --------------Assignment 1 Due: Week 3 Assignment 2 Due: Week 5
+
+Midterm Exam: Week 8 Assignment 3 Due: Week 10 Assignment 4 Due: Week 12 Final Project Due: Week 15 Final Exam: Week 16
+COURSE POLICIES --------------- Attendance is mandatory - Late submissions will be penalized 10% per day - Academic integrity strictly enforced - Collaboration allowed on assignments with proper attribution
+CONTACT INFORMATION ------------------Department: Computer Science Office: Building A, Room 201 Phone: (555) 123-4567
+
+
